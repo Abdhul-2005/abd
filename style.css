@@ -1,0 +1,16 @@
+th,td{
+    color:red;
+    border:2px solid black;
+}
+.hi{
+    color:blueviolet;
+    border: 2px solid black;
+    width: 25%;
+    background-color: aqua;
+    margin-left: 50px;
+    padding-left: 50px;
+
+}
+#heading3{
+    color: rgb(20, 214, 20);
+}
